@@ -37,7 +37,7 @@
       "class": "logging.handlers.RotatingFileHandler",
       "level": "DEBUG",
       "formatter": "json",
-      "filename": "dialogue_logs/dialogue.log.jsonl",
+      "filename": "xxx_log.jsonl",
       "maxBytes": 10000,
       "backupCount": 3
     }
